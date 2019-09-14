@@ -50,7 +50,7 @@ Este proyecto en vista general es interesante porque experimenta con el machine 
 Vídeo:
 
 https://youtu.be/bWJHoh2D2Tc
-
+CheckPoint : https://drive.google.com/drive/folders/11SNlxSPLbMKk7Ec34fbLb7yTbbtPNsqc?usp=sharing
 Referèncias: 
 0, paper pix2pix HD: https://arxiv.org/pdf/1711.11585.pdf
 1: https://www.youtube.com/watch?v=YsrMGcgfETY&t=2457s
